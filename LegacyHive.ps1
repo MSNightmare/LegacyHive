@@ -1,5 +1,5 @@
 # PowerShell implementation of the Windows User Profile Service Zero-Day (LegacyHive)
-# Original C++ POC by: ngnms (https://github.com/ngnms)
+# Original C++ POC by: ngnms (https://github.com/MSNightmare/LegacyHive/)
 # PowerShell port - Uses embedded C# for Native API access
 
 param(
